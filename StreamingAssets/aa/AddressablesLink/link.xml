@@ -6,6 +6,7 @@
     <type fullname="App.Scripts.GamePlayFeatures.Building.UI.Screens.BuildingScreenView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.UI.Elements.Button.ButtonView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.UI.Elements.Image.ImageView" preserve="all" />
+    <type fullname="App.Scripts.GamePlayFeatures.UI.Elements.ProgressBar.ProgressBarView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.UI.Elements.Text.TextView" preserve="all" />
     <type fullname="ArrowEffectView" preserve="all" />
     <type fullname="App.Scripts.GameCore.Anchors.AnchorData" preserve="nothing" serialized="true" />
