@@ -3,6 +3,8 @@
     <type fullname="App.Scripts.Features.FieldEffect.Effects.EffectMessage.EffectMessageWithTextView" preserve="all" />
     <type fullname="App.Scripts.GameCore.Anchors.AnchorContainer" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Building.BuildingRenderer" preserve="all" />
+    <type fullname="App.Scripts.GamePlayFeatures.Building.DefenseBuildingComponents.DamageSignPart" preserve="all" />
+    <type fullname="App.Scripts.GamePlayFeatures.Building.DefenseBuildingComponents.DamageSignView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Building.UI.Screens.BuildingScreenView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.UI.Elements.Button.ButtonView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.UI.Elements.Image.ImageView" preserve="all" />
@@ -10,6 +12,10 @@
     <type fullname="App.Scripts.GamePlayFeatures.UI.Elements.Text.TextView" preserve="all" />
     <type fullname="ArrowEffectView" preserve="all" />
     <type fullname="App.Scripts.GameCore.Anchors.AnchorData" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="StopMotionAnim.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="StopMotionAnim.Core.AnimationSequence" preserve="all" />
+    <type fullname="StopMotionAnim.Core.StopMotionAnimator" preserve="all" />
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
@@ -43,6 +49,9 @@
     <type fullname="TMPro.TMP_FontFeatureTable" preserve="nothing" serialized="true" />
     <type fullname="TMPro.TMP_FontWeightPair" preserve="nothing" serialized="true" />
     <type fullname="TMPro.VertexGradient" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphPairAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphValueRecord" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.GameObject" preserve="all" />
