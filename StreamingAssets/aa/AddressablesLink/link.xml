@@ -1,18 +1,19 @@
 <linker>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="App.Scripts.Features.FieldEffect.Effects.EffectMessage.EffectMessageWithTextView" preserve="all" />
     <type fullname="App.Scripts.GameCore.Anchors.AnchorContainer" preserve="all" />
+    <type fullname="App.Scripts.GamePlayFeatures.Building.DefenseBuildingComponents.ArrowEffectView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Building.DefenseBuildingComponents.DamageSignPart" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Building.DefenseBuildingComponents.DamageSignView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Building.Renderer.BuildingRenderer" preserve="all" />
+    <type fullname="App.Scripts.GamePlayFeatures.Building.Renderer.WallRenderer" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Building.UI.Screens.BuildingScreenView" preserve="all" />
+    <type fullname="App.Scripts.GamePlayFeatures.FieldEffect.Effects.EffectMessage.EffectMessageWithTextView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.FieldEffect.Effects.ParticleEffect" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Obstacles.Renderer.ObstacleRenderer" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.UI.Elements.Button.ButtonView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.UI.Elements.Image.ImageView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.UI.Elements.ProgressBar.ProgressBarView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.UI.Elements.Text.TextView" preserve="all" />
-    <type fullname="ArrowEffectView" preserve="all" />
     <type fullname="App.Scripts.GameCore.Anchors.AnchorData" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="StopMotionAnim.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
