@@ -6,11 +6,14 @@
     <type fullname="App.Scripts.GamePlayFeatures.Building.DefenseBuildingComponents.DamageSignView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Building.Renderer.BuildingRenderer" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Building.Renderer.WallRenderer" preserve="all" />
+    <type fullname="App.Scripts.GamePlayFeatures.Building.UI.BuildingInfo.BuildingInfoView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Building.UI.Screens.BuildingScreenView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.FieldEffect.Effects.EffectMessage.EffectMessageWithTextView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.FieldEffect.Effects.ParticleEffect" preserve="all" />
+    <type fullname="App.Scripts.GamePlayFeatures.Obstacles.ObstacleInfo.ObstacleInfoView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Obstacles.Renderer.ObstacleRenderer" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.UI.Elements.Button.ButtonView" preserve="all" />
+    <type fullname="App.Scripts.GamePlayFeatures.UI.Elements.Image.IconView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.UI.Elements.Image.ImageView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.UI.Elements.ProgressBar.ProgressBarView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.UI.Elements.Text.TextView" preserve="all" />
