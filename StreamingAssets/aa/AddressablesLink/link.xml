@@ -1,6 +1,8 @@
 <linker>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="App.Scripts.GameCore.Anchors.AnchorContainer" preserve="all" />
+    <type fullname="App.Scripts.GameCore.Renderer.BoxColliderChanger" preserve="all" />
+    <type fullname="App.Scripts.GamePlayFeatures.BaseRenderers.NotCommonSpriteRenderer" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Building.DefenseBuildingComponents.ArrowEffectView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Building.DefenseBuildingComponents.DamageSignPart" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Building.DefenseBuildingComponents.DamageSignView" preserve="all" />
@@ -8,6 +10,7 @@
     <type fullname="App.Scripts.GamePlayFeatures.Building.Renderer.WallRenderer" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Building.UI.BuildingInfo.BuildingInfoView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Building.UI.Screens.BuildingScreenView" preserve="all" />
+    <type fullname="App.Scripts.GamePlayFeatures.FieldEffect.Effects.EffectMessage.EffectMessageView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.FieldEffect.Effects.EffectMessage.EffectMessageWithTextView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.FieldEffect.Effects.ParticleEffect" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Obstacles.ObstacleInfo.ObstacleInfoView" preserve="all" />
@@ -18,6 +21,7 @@
     <type fullname="App.Scripts.GamePlayFeatures.UI.Elements.ProgressBar.ProgressBarView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.UI.Elements.Text.TextView" preserve="all" />
     <type fullname="App.Scripts.GameCore.Anchors.AnchorData" preserve="nothing" serialized="true" />
+    <type fullname="App.Scripts.GameCore.Renderer.BoxColliderChangerData" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="StopMotionAnim.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="Plugins.StopMotionAnim.Core.StopMotionAnimator" preserve="all" />
@@ -48,6 +52,7 @@
     <type fullname="TMPro.TextMeshPro" preserve="all" />
     <type fullname="TMPro.TextMeshProUGUI" preserve="all" />
     <type fullname="TMPro.TMP_FontAsset" preserve="all" />
+    <type fullname="TMPro.TMP_SpriteAsset" preserve="all" />
     <type fullname="TMPro.FaceInfo_Legacy" preserve="nothing" serialized="true" />
     <type fullname="TMPro.FontAssetCreationSettings" preserve="nothing" serialized="true" />
     <type fullname="TMPro.KerningTable" preserve="nothing" serialized="true" />
@@ -58,6 +63,8 @@
     <type fullname="TMPro.TMP_GlyphAdjustmentRecord" preserve="nothing" serialized="true" />
     <type fullname="TMPro.TMP_GlyphPairAdjustmentRecord" preserve="nothing" serialized="true" />
     <type fullname="TMPro.TMP_GlyphValueRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_SpriteCharacter" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_SpriteGlyph" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.GameObject" preserve="all" />
