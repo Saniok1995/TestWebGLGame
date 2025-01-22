@@ -10,6 +10,7 @@
     <type fullname="App.Scripts.GamePlayFeatures.Building.Renderer.WallRenderer" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Building.UI.BuildingInfo.BuildingInfoView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Building.UI.Screens.BuildingScreenView" preserve="all" />
+    <type fullname="App.Scripts.GamePlayFeatures.EndGame.UI.EndGameScreen.EndGameScreenView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.FieldEffect.Effects.EffectMessage.EffectMessageView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.FieldEffect.Effects.EffectMessage.EffectMessageWithTextView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.FieldEffect.Effects.ParticleEffect" preserve="all" />
@@ -19,6 +20,7 @@
     <type fullname="App.Scripts.GamePlayFeatures.UI.Elements.Image.IconView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.UI.Elements.Image.ImageView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.UI.Elements.ProgressBar.ProgressBarView" preserve="all" />
+    <type fullname="App.Scripts.GamePlayFeatures.UI.Elements.Statistic.EnemyStatisticView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.UI.Elements.Text.TextView" preserve="all" />
     <type fullname="App.Scripts.GameCore.Anchors.AnchorData" preserve="nothing" serialized="true" />
     <type fullname="App.Scripts.GameCore.Renderer.BoxColliderChangerData" preserve="nothing" serialized="true" />
@@ -80,6 +82,7 @@
     <type fullname="UnityEngine.Transform" preserve="all" />
     <type fullname="UnityEngine.U2D.SpriteAtlas" preserve="all" />
     <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.ParticleSystem" preserve="all" />
@@ -93,6 +96,7 @@
   </assembly>
   <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.UI.Button" preserve="all" />
+    <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
     <type fullname="UnityEngine.UI.Image" preserve="all" />
     <type fullname="UnityEngine.UI.RectMask2D" preserve="all" />
     <type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true" />
