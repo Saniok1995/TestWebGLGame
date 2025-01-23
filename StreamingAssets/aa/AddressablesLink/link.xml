@@ -9,6 +9,8 @@
     <type fullname="App.Scripts.GamePlayFeatures.Building.Renderer.BuildingRenderer" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Building.Renderer.WallRenderer" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Building.UI.BuildingInfo.BuildingInfoView" preserve="all" />
+    <type fullname="App.Scripts.GamePlayFeatures.Building.UI.BuildingInfo.InfoParts.BuildingInfoPartsView" preserve="all" />
+    <type fullname="App.Scripts.GamePlayFeatures.Building.UI.BuildingInfo.InfoParts.BuildingInfoPartView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Building.UI.Screens.BuildingScreenView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.EndGame.UI.EndGameScreen.EndGameScreenView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.FieldEffect.Effects.EffectMessage.EffectMessageView" preserve="all" />
@@ -99,6 +101,7 @@
     <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
     <type fullname="UnityEngine.UI.Image" preserve="all" />
     <type fullname="UnityEngine.UI.RectMask2D" preserve="all" />
+    <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
     <type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.Button/ButtonClickedEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.ColorBlock" preserve="nothing" serialized="true" />
