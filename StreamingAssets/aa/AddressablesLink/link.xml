@@ -20,6 +20,7 @@
     <type fullname="App.Scripts.GamePlayFeatures.FieldNotificationUI.FieldNotificationView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Obstacles.ObstacleInfo.ObstacleInfoView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Obstacles.Renderer.ObstacleRenderer" preserve="all" />
+    <type fullname="App.Scripts.GamePlayFeatures.PlayerProfile.UI.PlayerProfileScreenView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.UI.Elements.Button.ButtonView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.UI.Elements.Image.IconView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.UI.Elements.Image.ImageView" preserve="all" />
