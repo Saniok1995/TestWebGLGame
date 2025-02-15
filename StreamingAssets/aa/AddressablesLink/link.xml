@@ -3,7 +3,7 @@
     <type fullname="App.Scripts.GameCore.Anchors.AnchorContainer" preserve="all" />
     <type fullname="App.Scripts.GameCore.Renderer.BoxColliderChanger" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.BaseRenderers.NotCommonSpriteRenderer" preserve="all" />
-    <type fullname="App.Scripts.GamePlayFeatures.Building.DefenseBuildingComponents.ArrowEffectView" preserve="all" />
+    <type fullname="App.Scripts.GamePlayFeatures.Building.Components.DefenseBuildingComponents.ArrowEffectView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Building.DefenseBuildingComponents.DamageSignPart" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Building.DefenseBuildingComponents.DamageSignView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Building.Renderer.BuildingRenderer" preserve="all" />
