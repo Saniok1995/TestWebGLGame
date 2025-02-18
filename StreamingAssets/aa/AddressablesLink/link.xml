@@ -8,6 +8,7 @@
     <type fullname="App.Scripts.GamePlayFeatures.Building.DefenseBuildingComponents.DamageSignView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Building.Renderer.BuildingRenderer" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Building.Renderer.MillRenderer" preserve="all" />
+    <type fullname="App.Scripts.GamePlayFeatures.Building.Renderer.RotateRenderComponent" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Building.Renderer.WallRenderer" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Building.UI.BuildingInfo.BuildingInfoView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Building.UI.BuildingInfo.InfoParts.BuildingInfoPartsView" preserve="all" />
