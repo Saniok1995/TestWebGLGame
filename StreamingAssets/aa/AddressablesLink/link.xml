@@ -4,11 +4,14 @@
     <type fullname="App.Scripts.GameCore.Renderer.BoxColliderChanger" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.BaseRenderers.NotCommonSpriteRenderer" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Building.Components.DefenseBuildingComponents.ArrowEffectView" preserve="all" />
+    <type fullname="App.Scripts.GamePlayFeatures.Building.Components.DefenseBuildingComponents.FireArrowEffectView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Building.DefenseBuildingComponents.DamageSignPart" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Building.DefenseBuildingComponents.DamageSignView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Building.Renderer.BuildingRenderer" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Building.Renderer.MillRenderer" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Building.Renderer.RotateRenderComponent" preserve="all" />
+    <type fullname="App.Scripts.GamePlayFeatures.Building.Renderer.TowerWithAnimatorRenderer" preserve="all" />
+    <type fullname="App.Scripts.GamePlayFeatures.Building.Renderer.TowerWithBallistaRenderer" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Building.Renderer.WallRenderer" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Building.UI.BuildingInfo.BuildingInfoView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Building.UI.BuildingInfo.InfoParts.BuildingInfoPartsView" preserve="all" />
