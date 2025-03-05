@@ -18,12 +18,14 @@
     <type fullname="App.Scripts.GamePlayFeatures.Building.UI.BuildingInfo.InfoParts.BuildingInfoPartsView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Building.UI.BuildingInfo.InfoParts.BuildingInfoPartView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Building.UI.Screens.BuildingScreenView" preserve="all" />
+    <type fullname="App.Scripts.GamePlayFeatures.Dialogs.UI.DialogCharacterController" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.EndGame.UI.EndGameScreen.EndGameScreenView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.EndGame.UI.GamePauseScreen.GamePauseScreenView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.FieldEffect.Effects.EffectMessage.EffectMessageView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.FieldEffect.Effects.EffectMessage.EffectMessageWithTextView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.FieldEffect.Effects.ParticleEffect" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.FieldNotificationUI.FieldNotificationView" preserve="all" />
+    <type fullname="App.Scripts.GamePlayFeatures.MapData.MapController" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Obstacles.ObstacleInfo.ObstacleInfoView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Obstacles.Renderer.ObstacleRenderer" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.PlayerProfile.UI.PlayerProfileScreenView" preserve="all" />
@@ -79,6 +81,15 @@
     <type fullname="TMPro.TMP_SpriteCharacter" preserve="nothing" serialized="true" />
     <type fullname="TMPro.TMP_SpriteGlyph" preserve="nothing" serialized="true" />
   </assembly>
+  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AnimationClip" preserve="all" />
+    <type fullname="UnityEngine.Animator" preserve="all" />
+    <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AudioClip" preserve="all" />
+    <type fullname="UnityEngine.AudioSource" preserve="all" />
+  </assembly>
   <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.GameObject" preserve="all" />
     <type fullname="UnityEngine.Material" preserve="all" />
@@ -95,6 +106,9 @@
     <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true" />
   </assembly>
+  <assembly fullname="UnityEngine.GridModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Grid" preserve="all" />
+  </assembly>
   <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.ParticleSystem" preserve="all" />
     <type fullname="UnityEngine.ParticleSystemRenderer" preserve="all" />
@@ -104,6 +118,11 @@
   </assembly>
   <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.Font" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TilemapModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Tilemaps.Tile" preserve="all" />
+    <type fullname="UnityEngine.Tilemaps.Tilemap" preserve="all" />
+    <type fullname="UnityEngine.Tilemaps.TilemapRenderer" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.UI.Button" preserve="all" />
