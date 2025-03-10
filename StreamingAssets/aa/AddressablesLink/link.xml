@@ -20,7 +20,9 @@
     <type fullname="App.Scripts.GamePlayFeatures.Building.UI.Screens.BuildingScreenView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Dialogs.UI.DialogCharacterController" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.EndGame.UI.EndGameScreen.EndGameScreenView" preserve="all" />
+    <type fullname="App.Scripts.GamePlayFeatures.EndGame.UI.EndGameScreen.LocationCompleteScreenView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.EndGame.UI.GamePauseScreen.GamePauseScreenView" preserve="all" />
+    <type fullname="App.Scripts.GamePlayFeatures.EndGame.UI.MessageScreen.MessageScreenView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.FieldEffect.Effects.EffectMessage.EffectMessageView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.FieldEffect.Effects.EffectMessage.EffectMessageWithTextView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.FieldEffect.Effects.ParticleEffect" preserve="all" />
@@ -126,8 +128,10 @@
   </assembly>
   <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.UI.Button" preserve="all" />
+    <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
     <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
     <type fullname="UnityEngine.UI.Image" preserve="all" />
+    <type fullname="UnityEngine.UI.LayoutElement" preserve="all" />
     <type fullname="UnityEngine.UI.RectMask2D" preserve="all" />
     <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
     <type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true" />
