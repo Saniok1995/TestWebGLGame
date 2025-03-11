@@ -1,5 +1,6 @@
 <linker>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="App.Scripts.Common.RotateRenderComponent" preserve="all" />
     <type fullname="App.Scripts.GameCore.Anchors.AnchorContainer" preserve="all" />
     <type fullname="App.Scripts.GameCore.Renderer.BoxColliderChanger" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.BaseRenderers.NotCommonSpriteRenderer" preserve="all" />
@@ -9,7 +10,6 @@
     <type fullname="App.Scripts.GamePlayFeatures.Building.DefenseBuildingComponents.DamageSignView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Building.Renderer.BuildingRenderer" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Building.Renderer.MillRenderer" preserve="all" />
-    <type fullname="App.Scripts.GamePlayFeatures.Building.Renderer.RotateRenderComponent" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Building.Renderer.ShadowRenderer" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Building.Renderer.TowerWithAnimatorRenderer" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Building.Renderer.TowerWithBallistaRenderer" preserve="all" />
@@ -19,6 +19,7 @@
     <type fullname="App.Scripts.GamePlayFeatures.Building.UI.BuildingInfo.InfoParts.BuildingInfoPartView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Building.UI.Screens.BuildingScreenView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.Dialogs.UI.DialogCharacterController" preserve="all" />
+    <type fullname="App.Scripts.GamePlayFeatures.Economy.UI.CurrencyFlyingElement" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.EndGame.UI.EndGameScreen.EndGameScreenView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.EndGame.UI.EndGameScreen.LocationCompleteScreenView" preserve="all" />
     <type fullname="App.Scripts.GamePlayFeatures.EndGame.UI.GamePauseScreen.GamePauseScreenView" preserve="all" />
